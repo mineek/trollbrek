@@ -39,4 +39,6 @@ galaxy#0007 - Compiled the bootstrap.
 
 Coldi#0001 - Giving me support throughout this project.
 
+Nick Chan#0001 - Helping with getting sileo working
+
 And so much more people who did little things :)
