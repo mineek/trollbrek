@@ -18,7 +18,7 @@ Please, dont come to me asking for help, as I've stated multiple times its meant
 
 ### FAQ:
 #### Why jailbreak in quotes?
-Because it isnt a full jailbreak, it doesnt have Sileo / Libhooker for example. This is like the bare minimum.
+Because it isnt a full jailbreak, it doesnt have Libhooker for example. This is like the bare minimum.
 
 #### How do i install tweaks?
 You can install tweaks by using sileo.
