@@ -14,7 +14,7 @@ sileo
 stability
 
 ### ok this is all fun and games but how do i run this?
-Please, dont come to me asking for help, as I've stated multiple times its meant to be DEV ONLY. If u want a more usable jailbreak, check out geosn0w's jailbreak / cheyote / Fugu15.
+Please, dont come to me asking for help, as I've stated multiple times its meant to be DEV ONLY. If u want a more usable jailbreak, check out cheyote / Fugu15.
 
 ( i will add instructions once i push the code )
 
