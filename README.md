@@ -57,6 +57,9 @@ I still need to add the finishing touches to it, this will take maybe 4 - 6 days
 Well, im working on making it easier, as i've stated already, its mostly for devs and people with some experience. Keep an eye out on this repo for updates :)
 
 ### Credits List:
+
+anamy#1024 - Making a **much** better loader app
+
 galaxy#0007 - Compiled the bootstrap.
 
 [nebula](https://github.com/itsnebulalol/) - Helping me with getting NewTerm working.
