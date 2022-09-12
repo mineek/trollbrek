@@ -20,7 +20,7 @@ Basically FIRST make yourself a custom kernel with amfi patched. ( working on au
 
 Then make yourself an ssh ramdisk using [SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) and copy the files from the sshramdisk folder into installer/sshramdisk.
 
-Then edit install.sh with the right file names / ipsw link.
+Then edit install.sh with the right file names / ipsw link. ( can find on theiphonewiki )
 
 then run in the root of the repo
 1. ```./build.sh```
