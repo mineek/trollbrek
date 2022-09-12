@@ -26,6 +26,15 @@ You can install tweaks by using sileo.
 #### Where is the code?
 I still need to add the finishing touches to it, this will take maybe 4 - 6 days or something, once thats done I'll publish it here.
 
+### Post-install
+1. Open NewTerm2
+2. ```/var/hardware/TrollTerm/bin/sudo /var/jb/usr/bin/bash```
+3. ```source /var/jb/etc/profile```
+4. ```mount -uw /private/preboot```
+5. ```/var/jb/prep_bootstrap.sh```
+6. ```cd /var/mobile```
+7. ```dpkg -i sileo.deb```
+
 ### Credits List:
 galaxy#0007 - Compiled the bootstrap.
 
