@@ -1,4 +1,4 @@
-# mineekJB
+# trollbrek
 (theoretical) 15.0-15.5b4 checkm8-based "jailbreak"
 
 ## Warning: I AM NOT RESPONSIBLE FOR ANY DATA LOSS WHATSOEVER, OK? IF U MESS UP AND NEED TO RESTORE, IT'S NOT MY FAULT.
